@@ -1,0 +1,59 @@
+.ulas li{
+	display: inline-block;
+}
+
+.divas{
+	display: inline-block;
+}
+
+.a-divas{
+	margin-left: 45.5%;
+	width: 175px;
+	height: 25px;
+	background-color: rgb(0, 204, 255);
+	text-align: center;
+}
+
+.a-divas a{
+	color: black;
+}
+
+.a-divas2{
+	width: 100.82%;
+	height: 175px;
+	margin-left: -8px;
+	background-color: rgb(255, 163, 26);
+	text-align: center;
+}
+
+.a-divas2 p{
+	padding-top: 75px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+.a-divas2 a{
+	color: black;
+
+}
+
+.a-divas3{
+	width: 450px;
+	height: 250px;
+	background-color: rgb(255, 153, 102);
+	margin-left: -8px;
+}
+
+.a-divas3 p{
+	padding-top: 40px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+.a-divas3 span{
+	color: blue;
+}
+
+.sth{
+	vertical-align: top;
+}
